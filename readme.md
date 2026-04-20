@@ -120,6 +120,15 @@ It is a \*\*regression problem\*\* aimed at improving delivery efficiency
        Fast       1.00      0.50      0.67        6
       Medium       0.85      0.67      0.75      51
         Slow       0.89      0.98      0.93       143
+
+Confusion Matrix:
+
+[[3 3  0]
+ 
+ [0 34  17]
+ 
+ [0 3 140]]
+
     
 \###DecisionTree Classifier
 
@@ -163,6 +172,7 @@ It is a \*\*regression problem\*\* aimed at improving delivery efficiency
         Slow       0.94      0.93      0.94       143
 
 Confusion Matrix:
+ 
  [[5 1 0]
  
  [1 42 8]

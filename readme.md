@@ -103,6 +103,7 @@ It is a \*\*regression problem\*\* aimed at improving delivery efficiency
 \### Logistic Regression
 
 \###Training performance
+
 \-Accuracy:1.00
  
        Class      Precision  Recall   F1-Score    Support
@@ -111,6 +112,7 @@ It is a \*\*regression problem\*\* aimed at improving delivery efficiency
         Slow       1.00      1.00      1.00       61
 
 \###Test performance
+
 \-Accuracy:0.885
 
     
@@ -122,6 +124,7 @@ It is a \*\*regression problem\*\* aimed at improving delivery efficiency
 \###DecisionTree Classifier
 
 \###Training performance
+
 \-Accuracy:1.0
 
        Class      Precision  Recall   F1-Score    Support
@@ -130,6 +133,7 @@ It is a \*\*regression problem\*\* aimed at improving delivery efficiency
         Slow       1.00      1.00      1.00       610
 
 \###Test performance
+
 \-Accuracy:0.89
 
        Class      Precision  Recall   F1-Score    Support
@@ -140,6 +144,7 @@ It is a \*\*regression problem\*\* aimed at improving delivery efficiency
 \###RandomForest Classifier
 
 \###Training performance
+
 \-Accuracy:0.913
       
        Class      Precision  Recall    F1-Score   Support
@@ -149,17 +154,14 @@ It is a \*\*regression problem\*\* aimed at improving delivery efficiency
 
 
 \###Test performance
+
 \-Accuracy:0.91
        
        Class      Precision  Recall    F1-Score    Support 
        Fast       0.83      0.83      0.83         6
       Medium       0.79      0.82      0.81        51
         Slow       0.94      0.93      0.94       143
-\-Confusion Matrix:
 
-\-cm [[  5   1   0]
- \-[  1  42   8]
- \-[  0  10 133]]
 
 
 

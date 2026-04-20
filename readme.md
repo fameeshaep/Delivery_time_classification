@@ -104,11 +104,11 @@ It is a \*\*regression problem\*\* aimed at improving delivery efficiency
 
 \###Training performance
 \-Accuracy:1.00
- Class      Precision  Recall   F1-Score    Support
- Fast       1.00       1.00      1.00        17
- Medium     1.00       1.00      1.00        173
- Slow       1.00       1.00      1.00        610
-
+ 
+       Class      Precision  Recall   F1-Score    Support
+       Fast       1.00      1.00      1.00        17
+      Medium       1.00      1.00      1.00       173
+        Slow       1.00      1.00      1.00       610
 
 \###Test performance
 \-Accuracy:

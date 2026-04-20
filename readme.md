@@ -150,6 +150,12 @@ Confusion Matrix:
       Medium       0.81      0.75      0.78       51
         Slow       0.92      0.94      0.93       143
 
+Confusion Matrix:
+
+[[5 1 0]
+[1 38 12]
+[0 8 135]]
+
 \###RandomForest Classifier
 
 \###Training performance

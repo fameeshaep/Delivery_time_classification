@@ -108,14 +108,17 @@ It is a \*\*regression problem\*\* aimed at improving delivery efficiency
        Class      Precision  Recall   F1-Score    Support
        Fast       1.00      1.00      1.00        17
       Medium       1.00      1.00      1.00       173
-        Slow       1.00      1.00      1.00       610
+        Slow       1.00      1.00      1.00       61
 
 \###Test performance
-\-Accuracy:
-\-precision:
-\-Recall:
-\-F1-Score:
+\-Accuracy:0.88
 
+    
+       Class      Precision  Recall   F1-Score    Support
+       Fast       1.00      0.50      0.67        6
+      Medium       0.85      0.67      0.75      51
+        Slow       0.89      0.98      0.93       143
+    
 \###DecisionTree Classifier
 \###Training performance
 \-Accuracy:

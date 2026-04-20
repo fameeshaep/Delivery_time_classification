@@ -154,8 +154,11 @@ Confusion Matrix:
 Confusion Matrix:
 
 [[5 1 0]
-[1 38 12]
-[0 8 135]]
+ 
+ [1 38 12]
+ 
+ [0 8 135]]
+
 
 \###RandomForest Classifier
 

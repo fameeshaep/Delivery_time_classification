@@ -155,8 +155,8 @@ It is a \*\*regression problem\*\* aimed at improving delivery efficiency
         Slow       0.94      0.93      0.94       143
 \-Confusion Matrix:
 \-cm [[  5   1   0]
- [  1  42   8]
- [  0  10 133]]
+ \-[  1  42   8]
+ \-[  0  10 133]]
 
 
 

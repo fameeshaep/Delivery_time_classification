@@ -103,10 +103,12 @@ It is a \*\*regression problem\*\* aimed at improving delivery efficiency
 \### Logistic Regression
 
 \###Training performance
-\-Accuracy:
-\-precision:
-\-Recall:
-\-F1-Score:
+\-Accuracy:1.00
+ Class      Precision  Recall   F1-Score    Support
+ Fast       1.00       1.00      1.00        17
+ Medium     1.00       1.00      1.00        173
+ Slow       1.00       1.00      1.00        610
+
 
 \###Test performance
 \-Accuracy:

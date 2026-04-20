@@ -120,6 +120,7 @@ It is a \*\*regression problem\*\* aimed at improving delivery efficiency
         Slow       0.89      0.98      0.93       143
     
 \###DecisionTree Classifier
+
 \###Training performance
 \-Accuracy:1.0
 
@@ -137,6 +138,7 @@ It is a \*\*regression problem\*\* aimed at improving delivery efficiency
         Slow       0.92      0.94      0.93       143
 
 \###RandomForest Classifier
+
 \###Training performance
 \-Accuracy:0.913
       
@@ -154,6 +156,7 @@ It is a \*\*regression problem\*\* aimed at improving delivery efficiency
       Medium       0.79      0.82      0.81        51
         Slow       0.94      0.93      0.94       143
 \-Confusion Matrix:
+
 \-cm [[  5   1   0]
  \-[  1  42   8]
  \-[  0  10 133]]

@@ -129,11 +129,10 @@ It is a \*\*regression problem\*\* aimed at improving delivery efficiency
 
 \###Test performance
 \-Accuracy:0.89
-       Class      Precision  Recall    F1-Score    Support
-       Fast       0.83      0.83      0.83         6
-      Medium       0.81      0.75      0.78        51
+       Class      Precision  Recall   F1-Score    Support
+       Fast       0.83      0.83      0.83        6
+      Medium       0.81      0.75      0.78       51
         Slow       0.92      0.94      0.93       143
-
 
 \###RandomForest Classifier
 \###Training performance

@@ -122,6 +122,7 @@ It is a \*\*regression problem\*\* aimed at improving delivery efficiency
 \###DecisionTree Classifier
 \###Training performance
 \-Accuracy:1.0
+
        Class      Precision  Recall   F1-Score    Support
        Fast       1.00      1.00      1.00        17
       Medium       1.00      1.00      1.00       173
@@ -129,6 +130,7 @@ It is a \*\*regression problem\*\* aimed at improving delivery efficiency
 
 \###Test performance
 \-Accuracy:0.89
+
        Class      Precision  Recall   F1-Score    Support
        Fast       0.83      0.83      0.83        6
       Medium       0.81      0.75      0.78       51

@@ -123,11 +123,11 @@ It is a \*\*regression problem\*\* aimed at improving delivery efficiency
 
 Confusion Matrix:
 
-[[  5   1   0]
+ [[3 3 0]
  
- [  1  38  12]
+ [0 34 17]
  
- [  0   8 135]]
+ [0 3 140]]
 
 
     
